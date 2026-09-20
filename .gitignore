@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pkl
+*.joblib
+.ipynb_checkpoints/
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
